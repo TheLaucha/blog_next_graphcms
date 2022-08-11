@@ -1,6 +1,6 @@
 # Blog with Next.js & GraphCMS
 
-![Design preview for the Interactive rating component challenge hub](./public/preview_desktop.png.png)
+![Design preview for the Interactive rating component challenge hub](./public/preview_desktop.png)
 
 ### Links
 
