@@ -1,3 +1,23 @@
+# Blog with Next.js & GraphCMS
+
+![Design preview for the Interactive rating component challenge hub](./public/preview_desktop.png.png)
+
+### Links
+
+- Live Site URL: [Link](https://thelaucha.github.io/expenses-chart-component-FM/)
+
+### Built with
+
+- Next.js
+- TailwindCSS
+- GraphCMS
+- SCSS
+
+## Author
+
+- Website - [Lautaro Espinillo](https://thelaucha.github.io/lautaro_espinillo_portfolio/)
+- Frontend Mentor - [@TheLaucha](https://www.frontendmentor.io/profile/TheLaucha)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
