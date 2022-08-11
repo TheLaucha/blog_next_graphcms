@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Link](https://thelaucha.github.io/expenses-chart-component-FM/)
+- Live Site URL: [Link](https://blog-next-graphcms.vercel.app/)
 
 ### Built with
 
